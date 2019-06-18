@@ -1,0 +1,25 @@
+{
+  "name": "acard-api",
+  "version": "0.1.0",
+  "description": "REST api for acard",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Davey McNight",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "email-validator": "^2.0.4",
+    "express": "^4.16.4",
+    "firebase": "^5.8.3",
+    "firebase-admin": "^7.0.0",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.4",
+    "nodemon": "^1.18.9",
+    "rand-token": "^0.4.0",
+    "sequelize": "^4.42.0",
+    "validate-phone-number-node-js": "0.0.1"
+  }
+}

@@ -1,0 +1,101 @@
+<div class="accordion">
+
+    <div>
+        <input type="checkbox" name="panel-accord-moa" id="panel-1">
+        <label for="panel-1"></label>
+        <div class="accordion__content accordion__content--small">
+            <h2 class="accordion__header">Header</h2>
+            <p class="accordion__body">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto possimus at a cum saepe molestias modi illo facere ducimus voluptatibus praesentium deleniti fugiat ab error quia sit perspiciatis velit necessitatibus.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet.</p>
+        </div>
+    </div>
+</div><!-- .accordion -->
+
+<style>
+
+    /*
+    * Accordion
+    */
+    /* Basic Accordion Styles */
+    .accordion {
+        position: relative;
+        transform: translate(0%, 0%);
+        width: 100%;
+        box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+        margin: 0 auto;
+        margin-top: 0em;
+    }
+    .accordion input[name='panel-accord-moa'] {
+        display: none;
+    }
+    .accordion label {
+        position: relative;
+        display: block;
+        padding: 1em;
+        border-top: 1px solid #fff;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+        box-shadow: inset 0 2px 0 #fff;
+        font-size: 1.5em;
+
+
+        cursor: pointer;
+        transition: all 0.4s cubic-bezier(0.865, 0.14, 0.095, 0.87);
+    }
+    .accordion label:after {
+        content: '+';
+        position: absolute;
+        right: 1em;
+        width: 1em;
+        height: 1em;
+        color: #eee;
+        text-align: center;
+        border-radius: 50%;
+        background: #23364a;
+        text-shadow: 0 1px 0 rgba(0, 0, 0, 0.75);
+        margin-top: -10px;
+    }
+    .accordion label:hover {
+        color: #23364a;
+    }
+    .accordion input:checked + label {
+        color: #23364a;
+    }
+    .accordion input:checked + label:after {
+        content: '-';
+        /* adjsut line-height to vertically center icon */
+        line-height: .8em;
+    }
+    .accordion .accordion__content {
+        overflow: hidden;
+        height: 0px;
+        position: relative;
+        padding: 0 1.5em;
+        color: #23364a;
+        transition: height 0.4s cubic-bezier(0.865, 0.14, 0.095, 0.87);
+    }
+    .accordion .accordion__content:not(:last-of-type) {
+        box-shadow: inset 0 -2px 2px rgba(0, 0, 0, 0.25), inset 4px 0 0 0 #23364a, inset 0 3px 6px rgba(0, 0, 0, 0.75);
+    }
+    .accordion .accordion__content .accordion__header {
+        padding: 1em 0;
+    }
+    .accordion .accordion__content .accordion__body {
+        font-size: .825em;
+        line-height: 1.4em;
+    }
+
+    /*
+    * Size Variations
+    */
+    input[name='panel-accord-moa']:checked ~ .accordion__content.accordion__content--small {
+        height: 150px;
+    }
+
+    input[name='panel-accord-moa']:checked ~ .accordion__content.accordion__content--med {
+        height: 200px;
+    }
+
+    input[name='panel-accord-moa']:checked ~ .accordion__content.accordion__content--large {
+        height: 300px;
+    }
+</style>

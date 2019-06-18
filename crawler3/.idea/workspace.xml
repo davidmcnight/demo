@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e02d39f1-fde3-439d-98c4-3e621a05608b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Crab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Fridgidaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Hafele.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/InfinityDrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Inox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Kuzco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Rohl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Schlage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Smedbo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Sonneman2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/executables/finishcodes/AshleyNorton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawler3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/price-sheets/cb-door.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/price-sheets/cb-door.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/price-sheets/classic_brass_door.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/price-sheets/classic_brass_door.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/price-sheets/richleu.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/price-sheets/richleu.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/SpecBooksController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/SpecBooksController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/crawlers/SpecBooksCrawler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/crawlers/SpecBooksCrawler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/CapitalLighting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/CapitalLighting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/ClassBrassDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/ClassBrassDoor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Delaney.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Delaney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Emtek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Emtek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Richlue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Richlue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Sonneman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Sonneman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/WacLighting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/WacLighting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Watermark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Watermark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/executables/missingproducts/BaldwinMissing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/executables/missingproducts/BaldwinMissing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/executables/missingproducts/MaximMissing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/executables/missingproducts/MaximMissing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/frontier/00000000.jdb" beforeDir="false" afterPath="$PROJECT_DIR$/storage/frontier/00000000.jdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/frontier/je.config.csv" beforeDir="false" afterPath="$PROJECT_DIR$/storage/frontier/je.config.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/frontier/je.stat.csv" beforeDir="false" afterPath="$PROJECT_DIR$/storage/frontier/je.stat.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controllers/SpecBooksController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controllers/SpecBooksController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/crawlers/SpecBooksCrawler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/crawlers/SpecBooksCrawler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/CapitalLighting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/CapitalLighting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/ClassBrassDoor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/ClassBrassDoor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/Delaney.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/Delaney.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/Emtek.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/Emtek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/Richlue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/Richlue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/Sonneman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/Sonneman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/WacLighting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/WacLighting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/Watermark.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/domain/models/manufacturers/Watermark.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/executables/missingproducts/BaldwinMissing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/executables/missingproducts/BaldwinMissing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/executables/missingproducts/MaximMissing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/executables/missingproducts/MaximMissing.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1854180271">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="77" />
+          <entry key="project.open.time.0" value="12" />
+          <entry key="project.open.time.1" value="24" />
+          <entry key="project.open.time.109" value="1" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.6" value="10" />
+          <entry key="project.open.time.7" value="15" />
+          <entry key="project.open.time.8" value="6" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="78" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="csv" value="208" />
+          <entry key="java" value="46013" />
+          <entry key="xml" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSV" value="208" />
+          <entry key="JAVA" value="46013" />
+          <entry key="XML" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="csv" value="6" />
+          <entry key="java" value="408" />
+          <entry key="sql" value="1" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="CSV" value="6" />
+          <entry key="JAVA" value="408" />
+          <entry key="SQL" value="1" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1680057494">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="384" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="384" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Hafele.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="93" column="52" selection-start-line="93" selection-start-column="52" selection-end-line="93" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/controllers/SpecBooksController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Singleton" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>f304l</find>
+      <find>setModel</find>
+      <find>nullp</find>
+      <find>,</find>
+      <find>setName</find>
+      <find>exit(</find>
+      <find>setFinish</find>
+      <find>23-7g-l9</find>
+      <find>counter</find>
+      <find>36-4-1-nm-1</find>
+      <find>7990320131165</find>
+      <find>setNam</find>
+      <find>iterator</find>
+      <find>D40917</find>
+      <find>del.</find>
+      <find>list</find>
+      <find>spec</find>
+      <find>setSpec</find>
+      <find>startsWith</find>
+      <find>products</find>
+      <find>setImage</find>
+      <find>Smedbo</find>
+      <find>Spec</find>
+      <find>Speci</find>
+      <find>og:im</find>
+      <find>\n                product\.setImageLink\(document\.select\(\&quot;meta\[property\=og\:image\]\&quot;\)\n                        \.first\(\)\.attr\(\&quot;abs\:content\&quot;\)\)\;</find>
+      <find>Page</find>
+      <find>in</find>
+      <find>emtek</find>
+      <find>-</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/ET2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/executables/missingproducts/ET2Missing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/MonteCarlo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/executables/sitemaps/HammertonStudio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/HammertonStudio.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/RalphLauren.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/SavoyHouse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/executables/sitemaps/Schonbek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Schonbek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/FineArt.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Elk.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Elegant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/executables/ftp/Visual.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Kohler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/SterlingPlumbing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/TechLighting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/config/Config.java" />
+        <option value="$PROJECT_DIR$/src/main/java/executables/urlreaders/Moen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/MinkaAire.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Phylrich.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Symmons.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Acclaim.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/MaximLighting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/services/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/executables/priceupdates/RichPricing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/executables/priceupdates/WatermarkPricing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/ClassicBrassCab.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Watermark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Richlue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/ClassBrassDoor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Delaney.java" />
+        <option value="$PROJECT_DIR$/src/main/java/executables/missingproducts/BaldwinMissing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/executables/missingproducts/MaximMissing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/WacLighting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Sonneman2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/CapitalLighting.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Kuzco.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Smedbo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Inox.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Sonneman.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Schlage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/executables/finishcodes/AshleyNorton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Fridgidaire.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/Manufacturer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/crawlers/SpecBooksCrawler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Rohl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Crab.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Emtek.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/SpecBooksController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/InfinityDrain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Hafele.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="208" />
+    <option name="width" value="1440" />
+    <option name="height" value="825" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crawler3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawler3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler3" type="462c0819:PsiDirectoryNode" />
+              <item name="ftp-sheets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawler3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler3" type="462c0819:PsiDirectoryNode" />
+              <item name="missing-products-sheets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawler3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler3" type="462c0819:PsiDirectoryNode" />
+              <item name="sql-dumps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawler3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawler3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawler3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawler3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawler3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawler3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawler3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="manufacturers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560175815536" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libs" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="domain.models.manufacturers" />
+      <recent name="helpers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SpecBooksController">
+    <configuration name="AshleyNorton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="executables.finishcodes.AshleyNorton" />
+      <module name="crawler3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="executables.finishcodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaldwinMissing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="executables.missingproducts.BaldwinMissing" />
+      <module name="crawler3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="executables.missingproducts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximMissing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="executables.missingproducts.MaximMissing" />
+      <module name="crawler3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="executables.missingproducts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpecBooksController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controllers.SpecBooksController" />
+      <module name="crawler3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WatermarkPricing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="executables.priceupdates.WatermarkPricing" />
+      <module name="crawler3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="executables.priceupdates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SpecBooksController" />
+      <item itemvalue="Application.BaldwinMissing" />
+      <item itemvalue="Application.MaximMissing" />
+      <item itemvalue="Application.WatermarkPricing" />
+      <item itemvalue="Application.AshleyNorton" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpecBooksController" />
+        <item itemvalue="Application.AshleyNorton" />
+        <item itemvalue="Application.MaximMissing" />
+        <item itemvalue="Application.BaldwinMissing" />
+        <item itemvalue="Application.WatermarkPricing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e02d39f1-fde3-439d-98c4-3e621a05608b" name="Default Changelist" comment="" />
+      <created>1542732407025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542732407025</updated>
+      <workItem from="1542732416455" duration="19832000" />
+      <workItem from="1543261673910" duration="20980000" />
+      <workItem from="1543591823843" duration="2215000" />
+      <workItem from="1543613138200" duration="2830000" />
+      <workItem from="1543850008249" duration="5282000" />
+      <workItem from="1543957195146" duration="2796000" />
+      <workItem from="1543970913152" duration="27598000" />
+      <workItem from="1544625789115" duration="771000" />
+      <workItem from="1544714787568" duration="574000" />
+      <workItem from="1544727397171" duration="18000" />
+      <workItem from="1544727439902" duration="586000" />
+      <workItem from="1544728100155" duration="17614000" />
+      <workItem from="1545057566048" duration="12115000" />
+      <workItem from="1545147964977" duration="8069000" />
+      <workItem from="1545161306287" duration="10849000" />
+      <workItem from="1545243675871" duration="54589000" />
+      <workItem from="1545924071697" duration="29301000" />
+      <workItem from="1546362987998" duration="20116000" />
+      <workItem from="1546876173652" duration="23000" />
+      <workItem from="1547244566033" duration="6000" />
+      <workItem from="1547390189398" duration="1969000" />
+      <workItem from="1547683164886" duration="61000" />
+      <workItem from="1547685493619" duration="3161000" />
+      <workItem from="1547744198510" duration="1637000" />
+      <workItem from="1547824355469" duration="20358000" />
+      <workItem from="1548086624741" duration="39143000" />
+      <workItem from="1548363276481" duration="3275000" />
+      <workItem from="1548426602093" duration="17406000" />
+      <workItem from="1548800846160" duration="199000" />
+      <workItem from="1548818738621" duration="610000" />
+      <workItem from="1548819950461" duration="629000" />
+      <workItem from="1548866297857" duration="357000" />
+      <workItem from="1548888805061" duration="4000" />
+      <workItem from="1549307901472" duration="130000" />
+      <workItem from="1549308071663" duration="63000" />
+      <workItem from="1549382452562" duration="17854000" />
+      <workItem from="1549553652070" duration="762000" />
+      <workItem from="1550695019820" duration="4009000" />
+      <workItem from="1550763372961" duration="7153000" />
+      <workItem from="1550845456409" duration="428000" />
+      <workItem from="1550849520275" duration="9034000" />
+      <workItem from="1551197397142" duration="256000" />
+      <workItem from="1551211037060" duration="498000" />
+      <workItem from="1551282485794" duration="8000" />
+      <workItem from="1551300466923" duration="495000" />
+      <workItem from="1551367183309" duration="22003000" />
+      <workItem from="1551817763252" duration="7163000" />
+      <workItem from="1552056812538" duration="7183000" />
+      <workItem from="1552077732115" duration="907000" />
+      <workItem from="1552334896794" duration="309000" />
+      <workItem from="1552411217599" duration="163000" />
+      <workItem from="1552493471711" duration="8335000" />
+      <workItem from="1553004390157" duration="508000" />
+      <workItem from="1553024691978" duration="1051000" />
+      <workItem from="1553088189251" duration="6281000" />
+      <workItem from="1553113613105" duration="7580000" />
+      <workItem from="1553614542972" duration="2937000" />
+      <workItem from="1553867641913" duration="432000" />
+      <workItem from="1553868693689" duration="364000" />
+      <workItem from="1553870190272" duration="5207000" />
+      <workItem from="1554167851254" duration="84160000" />
+      <workItem from="1554492991966" duration="2156000" />
+      <workItem from="1554725482523" duration="34788000" />
+      <workItem from="1554941703000" duration="1205000" />
+      <workItem from="1554997102439" duration="1190000" />
+      <workItem from="1555099042515" duration="1524000" />
+      <workItem from="1555443358610" duration="1109000" />
+      <workItem from="1555691982136" duration="4000" />
+      <workItem from="1555692774631" duration="2147000" />
+      <workItem from="1555951388469" duration="798000" />
+      <workItem from="1557160305217" duration="7139000" />
+      <workItem from="1557239607467" duration="8427000" />
+      <workItem from="1557256344813" duration="35098000" />
+      <workItem from="1557496970394" duration="21369000" />
+      <workItem from="1558531726555" duration="15817000" />
+      <workItem from="1559082927074" duration="1451000" />
+      <workItem from="1559570321205" duration="13447000" />
+      <workItem from="1559755110293" duration="6280000" />
+      <workItem from="1559766572265" duration="1747000" />
+      <workItem from="1559832215176" duration="14202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="690144000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="28" width="1440" height="825" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.82222223" visible="true" weight="0.30615166" />
+      <window_info id="Structure" order="1" sideWeight="0.17777778" side_tool="true" weight="0.33285093" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4975669" weight="0.37107778" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39864865" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32756326" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50243306" side_tool="true" weight="0.29181495" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.48175183" weight="0.30559346" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26606876" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49850523" visible="true" weight="0.41588157" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50149477" side_tool="true" weight="0.51278603" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.48253453" weight="0.32839838" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/executables/ftp/Visual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="61" column="17" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helpers/StringManipulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/executables/sitemaps/Baldwin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Elk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="142" column="58" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Symmons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Acclaim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="112" column="26" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Phylrich.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="122" column="76" selection-start-line="122" selection-start-column="76" selection-end-line="122" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/executables/missingproducts/ET2Missing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/executables/priceupdates/BaldwinPricing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="34" column="76" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Baldwin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1690">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/MaximLighting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/executables/priceupdates/RichPricing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="35" lean-forward="true" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/executables/priceupdates/KichlerPricing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="34" column="55" lean-forward="true" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/ClassicBrassCab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1171">
+          <caret line="37" column="86" lean-forward="true" selection-start-line="37" selection-start-column="86" selection-end-line="37" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Elegant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="103" column="76" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/TechLighting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="127" lean-forward="true" selection-end-line="172" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/MinkaAire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="129" column="75" selection-start-line="125" selection-start-column="37" selection-end-line="129" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/executables/priceupdates/WatermarkPricing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="52" column="69" selection-start-line="52" selection-start-column="69" selection-end-line="52" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/ClassBrassDoor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2304">
+          <caret line="155" column="77" selection-start-line="155" selection-start-column="31" selection-end-line="155" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/executables/missingproducts/AlnoMissing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Delaney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/executables/missingproducts/BaldwinMissing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="24" column="79" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/executables/missingproducts/MaximMissing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/WacLighting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Richlue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="46" column="49" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/CapitalLighting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2178">
+          <caret line="133" selection-end-line="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Kohler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Watermark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Smedbo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Inox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="31" column="64" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Sonneman2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Sonneman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="29" column="100" selection-start-line="29" selection-start-column="100" selection-end-line="29" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/edu/uci/ics/crawler4j/4.4.0/crawler4j-4.4.0.jar!/edu/uci/ics/crawler4j/crawler/WebCrawler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3636">
+          <caret line="239" selection-start-line="239" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Schlage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/executables/finishcodes/Kal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Hinkley.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="86" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/SeagullLighting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="92" lean-forward="true" selection-start-line="90" selection-start-column="15" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/executables/finishcodes/AshleyNorton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="34" column="33" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="34" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Fridgidaire.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1149">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/services/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Kuzco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="37" column="64" selection-start-line="37" selection-start-column="64" selection-end-line="37" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/Manufacturer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="e#643#644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/crawlers/SpecBooksCrawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Crab.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="116" column="46" selection-start-line="116" selection-start-column="46" selection-end-line="116" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/InfinityDrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Emtek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2416">
+          <caret line="184" column="66" selection-start-line="184" selection-start-column="66" selection-end-line="184" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Rohl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="47" column="24" lean-forward="true" selection-end-line="172" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/SpecBooksController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/models/manufacturers/Hafele.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="93" column="52" selection-start-line="93" selection-start-column="52" selection-end-line="93" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>crawler3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
